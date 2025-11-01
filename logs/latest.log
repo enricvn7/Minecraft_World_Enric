@@ -1,0 +1,1304 @@
+[20:13:40] [main/INFO]: Loading tweak class name optifine.OptiFineTweaker
+[20:13:40] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[20:13:40] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+[20:13:40] [main/INFO]: [OptiFine] OptiFineTweaker: acceptOptions
+[20:13:40] [main/INFO]: [OptiFine] OptiFineTweaker: injectIntoClassLoader
+[20:13:40] [main/INFO]: [OptiFine] OptiFine ClassTransformer
+[20:13:40] [main/INFO]: [OptiFine] OptiFine ZIP file: C:\Users\Mi Pc\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.19.2_HD_U_H9\OptiFine-1.19.2_HD_U_H9.jar
+[20:13:40] [main/INFO]: [OptiFine] OptiFineTweaker: getLaunchArguments
+[20:13:40] [main/INFO]: [OptiFine] OptiFineTweaker: getLaunchTarget
+[20:13:40] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[20:13:41] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[20:13:41] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[20:13:41] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.logging.CrashReportExtender
+[20:13:41] [main/INFO]: [OptiFine] (Reflector) Method not present: aks.create
+[20:13:43] [main/INFO]: Building optimized datafixer
+[20:13:44] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[20:13:44] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:13:46] [Render thread/INFO]: Setting user: FoggiaAC
+[20:13:46] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[20:13:46] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: efs.getKeyModifier
+[20:13:46] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[20:13:46] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.fml.loading.progress.EarlyProgressVisualization.handOffWindow
+[20:13:46] [Render thread/INFO]: [OptiFine] 
+[20:13:46] [Render thread/INFO]: [OptiFine] OptiFine_1.19.2_HD_U_H9
+[20:13:46] [Render thread/INFO]: [OptiFine] Build: 20220820-230904
+[20:13:46] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[20:13:46] [Render thread/INFO]: [OptiFine] Java: 17.0.15, Microsoft
+[20:13:46] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[20:13:46] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[20:13:46] [Render thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2, version 3.2.0 NVIDIA 560.94, NVIDIA Corporation
+[20:13:46] [Render thread/INFO]: [OptiFine] OpenGL Version: 3.2.0
+[20:13:46] [Render thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[20:13:46] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[20:13:46] [Render thread/INFO]: [Shaders] OpenGL Version: 3.2.0 NVIDIA 560.94
+[20:13:46] [Render thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[20:13:46] [Render thread/INFO]: [Shaders] Renderer: NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2
+[20:13:46] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  - 
+[20:13:46] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[20:13:46] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[20:13:46] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[20:13:46] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[20:13:46] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[20:13:46] [Render thread/INFO]: [Shaders] No shaderpack loaded.
+[20:13:46] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ModList
+[20:13:46] [VersionCheck/INFO]: [OptiFine] java.io.FileNotFoundException: http://optifine.net/version/1.19.2/HD_U.txt
+[20:13:47] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[20:13:47] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[20:13:47] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[20:13:47] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to unnamed module @7b05dab
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ForgeItemModelShaper
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.lighting.ForgeModelBlockRenderer
+[20:13:47] [Render thread/INFO]: Reloading ResourceManager: Default
+[20:13:47] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[20:13:47] [Render thread/INFO]: [OptiFine] Resource packs: Default
+[20:13:47] [Worker-Main-11/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.geometry.GeometryLoaderManager
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.ModListScreen
+[20:13:47] [Worker-Main-12/INFO]: [OptiFine] Multitexture: false
+[20:13:47] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:13:47] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.TitleScreenModUpdateIndicator
+[20:13:47] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.internal.BrandingControl
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.client.extensions.common.IClientItemExtensions.of
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.loading.ClientModLoader
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.level.ChunkDataEvent$Save
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.level.ChunkEvent$Load
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.level.ChunkEvent$Unload
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ColorResolverManager
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityRenderersEvent$AddLayers
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityLeaveLevelEvent
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ViewportEvent$ComputeCameraAngles
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinLevelEvent
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.isCanceled
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.getResult
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: fai.getTexture
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Field not present: fao.emissivity
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightEmission
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.shouldDisplayFluidOverlay
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgePlayer
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Field not present: afs.currentlyLoading
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraftforge.common.ForgeConfig$Client.experimentalForgeLightPipelineEnabled
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraftforge.common.ForgeConfig$Client.useCombinedDepthStencilAttachment
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraftforge.common.ForgeConfigSpec.childConfig
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue.defaultSupplier
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Field not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue.spec
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue.get
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: cxj.getWorldForge
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeI18n
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: efs.setKeyConflictContext
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: efs.setKeyModifierAndCode
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: drd.render
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: cbn.getStyleModifier
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Field not present: agk.forceTicks
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: agk.isForceTicks
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlockEntity
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.extensions.IForgeDimensionSpecialEffects
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ModContainer
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ModLoader
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.PlayLevelSoundEvent
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.QuadBakingVertexConsumer
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.QuadTransformers
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IQuadTransformer
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RegisterShadersEvent
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockScreenEffectEvent$OverlayType
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.CustomizeGuiOverlayEvent$BossEventProgress
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderNameTagEvent
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.server.ServerLifecycleHooks
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Method not present: eyj.updateSprite
+[20:13:47] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.level.LevelEvent$Load
+[20:13:47] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] Multipass connected textures: false
+[20:13:49] [Worker-Main-11/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[20:13:50] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 4
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Sprite size: 64
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 6
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:13:51] [Worker-Main-11/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Sprite size: 64
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 6
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:13:51] [Worker-Main-11/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Sprite size: 64
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 6
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:13:51] [Worker-Main-11/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Sprite size: 64
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 6
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:13:51] [Worker-Main-11/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Sprite size: 64
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 6
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:13:51] [Worker-Main-11/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Sprite size: 64
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Mipmap levels: 6
+[20:13:51] [Worker-Main-11/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:13:51] [Worker-Main-11/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:13:51] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[20:13:51] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[20:13:51] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on ASUS VP248 (NVIDIA High Definition Audio)
+[20:13:51] [Render thread/INFO]: Sound engine started
+[20:13:51] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[20:13:51] [Render thread/INFO]: [OptiFine] Animated sprites: 51
+[20:13:51] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[20:13:51] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:13:51] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:13:51] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:13:51] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:13:51] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:13:51] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[20:13:51] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:13:51] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[20:13:51] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:13:51] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:13:51] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:13:52] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[20:13:53] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[20:13:53] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[20:13:53] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[20:13:53] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:13:53] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:13:53] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:13:53] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[20:13:53] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[20:14:14] [Worker-Bootstrap-6/INFO]: 4283 Datafixer optimizations took 31001 milliseconds
+[20:17:01] [Render thread/INFO]: [Shaders] Loaded shaderpack: ComplementaryReimagined_r1.3.1
+[20:17:01] [Render thread/INFO]: [OptiFine] [Shaders] Worlds: -1, 0, 1
+[20:17:02] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[20:17:02] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10024=
+[20:17:02] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[20:17:02] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[20:17:02] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60024=
+[20:17:02] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[20:17:02] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[20:17:02] [Render thread/INFO]: [Shaders] Custom texture: texture.deferred.colortex3 = lib/textures/clouds.png
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: isEyeInCave
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: isDry
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: isRainy
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: isSnowy
+[20:17:02] [Render thread/INFO]: [Shaders] Custom variable: difX
+[20:17:02] [Render thread/INFO]: [Shaders] Custom variable: difY
+[20:17:02] [Render thread/INFO]: [Shaders] Custom variable: difZ
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: velocity
+[20:17:02] [Render thread/INFO]: [Shaders] Custom variable: difSum
+[20:17:02] [Render thread/INFO]: [Shaders] Custom variable: moving
+[20:17:02] [Render thread/INFO]: [Shaders] Custom variable: moved
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: starter
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: frameTimeSmooth
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM
+[20:17:02] [Render thread/INFO]: [Shaders] Custom uniform: rainFactor
+[20:17:02] [Render thread/INFO]: [OptiFine] CustomBlockLayers: shaders/block.properties
+[20:17:02] [Render thread/INFO]: Reloading ResourceManager: Default
+[20:17:02] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[20:17:02] [Render thread/INFO]: [OptiFine] Resource packs: Default
+[20:17:02] [Worker-Main-17/INFO]: [OptiFine] Multitexture: false
+[20:17:02] [Worker-Main-16/INFO]: [OptiFine] Multitexture: false
+[20:17:02] [Worker-Main-10/INFO]: [OptiFine] Multitexture: false
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] Multipass connected textures: false
+[20:17:03] [Worker-Main-8/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[20:17:04] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 4
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:17:05] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:17:05] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:17:05] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:17:05] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:17:05] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Sprite size: 64
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Mipmap levels: 6
+[20:17:05] [Worker-Main-8/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:17:05] [Worker-Main-8/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:17:05] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[20:17:05] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[20:17:05] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on ASUS VP248 (NVIDIA High Definition Audio)
+[20:17:05] [Render thread/INFO]: Sound engine started
+[20:17:05] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 1024x1024, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 1024x1024, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 51
+[20:17:05] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x128, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x128, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:17:05] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:17:05] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:17:05] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:17:05] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:17:05] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:17:05] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[20:17:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[20:17:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:17:05] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map normal: 128x128, mipmaps: 0
+[20:17:05] [Render thread/INFO]: [Shaders] Allocate texture map specular: 128x128, mipmaps: 0
+[20:17:05] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:17:05] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[20:17:05] [Render thread/INFO]: [OptiFine] CustomBlockLayers: shaders/block.properties
+[20:17:05] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[20:17:16] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[20:18:26] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[20:18:28] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[20:18:55] [Render thread/INFO]: Reloading ResourceManager: Default
+[20:18:55] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[20:18:55] [Render thread/INFO]: [OptiFine] Resource packs: Default
+[20:18:55] [Worker-Main-17/INFO]: [OptiFine] Multitexture: false
+[20:18:55] [Worker-Main-18/INFO]: [OptiFine] Multitexture: false
+[20:18:55] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] Multitexture: false
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] Multipass connected textures: false
+[20:18:56] [Worker-Main-16/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Mipmap levels: 4
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Multitexture: false
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Sprite size: 64
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Mipmap levels: 6
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:18:57] [Worker-Main-16/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Multitexture: false
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Sprite size: 64
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Mipmap levels: 6
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:18:57] [Worker-Main-16/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Multitexture: false
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Sprite size: 64
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Mipmap levels: 6
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:18:57] [Worker-Main-16/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Multitexture: false
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Sprite size: 64
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Mipmap levels: 6
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:18:57] [Worker-Main-16/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Multitexture: false
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Sprite size: 64
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Mipmap levels: 6
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:18:57] [Worker-Main-16/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Multitexture: false
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Sprite size: 64
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Mipmap levels: 6
+[20:18:57] [Worker-Main-16/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:18:57] [Worker-Main-16/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:18:57] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[20:18:57] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[20:18:57] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on ASUS VP248 (NVIDIA High Definition Audio)
+[20:18:57] [Render thread/INFO]: Sound engine started
+[20:18:57] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map normal: 1024x1024, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map specular: 1024x1024, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [OptiFine] Animated sprites: 51
+[20:18:57] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x128, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x128, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:18:57] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:18:57] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:18:57] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:18:57] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:18:57] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[20:18:57] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:18:58] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[20:18:58] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[20:18:58] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[20:18:58] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[20:18:58] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[20:18:58] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[20:18:58] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[20:18:58] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[20:18:58] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:18:58] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:18:58] [Render thread/INFO]: [Shaders] Allocate texture map normal: 128x128, mipmaps: 0
+[20:18:58] [Render thread/INFO]: [Shaders] Allocate texture map specular: 128x128, mipmaps: 0
+[20:18:58] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:18:58] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[20:18:58] [Render thread/INFO]: [OptiFine] CustomBlockLayers: shaders/block.properties
+[20:18:58] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[20:19:18] [Render thread/INFO]: Reloading ResourceManager: Default
+[20:19:18] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[20:19:18] [Render thread/INFO]: [OptiFine] Resource packs: Default
+[20:19:18] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[20:19:18] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[20:19:18] [Worker-Main-18/INFO]: [OptiFine] Multitexture: false
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] Multipass connected textures: false
+[20:19:19] [Worker-Main-9/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 4
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:19:20] [Worker-Main-9/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:19:20] [Worker-Main-9/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:19:20] [Worker-Main-9/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:19:20] [Worker-Main-9/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:19:20] [Worker-Main-9/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[20:19:20] [Worker-Main-9/INFO]: [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 64
+[20:19:20] [Worker-Main-9/WARN]: Unused frames in sprite minecraft:missingno: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+[20:19:20] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[20:19:20] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[20:19:20] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on ASUS VP248 (NVIDIA High Definition Audio)
+[20:19:20] [Render thread/INFO]: Sound engine started
+[20:19:20] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 1024x1024, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 1024x1024, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 51
+[20:19:20] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x128, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x128, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:19:20] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:19:20] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:19:20] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:19:20] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:19:20] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 512x256, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 512x256, mipmaps: 4
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:19:20] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[20:19:20] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[20:19:20] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 256x256, mipmaps: 0
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 256x256, mipmaps: 0
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:19:20] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map normal: 128x128, mipmaps: 0
+[20:19:20] [Render thread/INFO]: [Shaders] Allocate texture map specular: 128x128, mipmaps: 0
+[20:19:20] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[20:19:20] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[20:19:20] [Render thread/INFO]: [OptiFine] CustomBlockLayers: shaders/block.properties
+[20:19:20] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[20:19:40] [Render thread/INFO]: Loaded 7 recipes
+[20:19:40] [Render thread/INFO]: Loaded 1179 advancements
+[20:20:13] [Render thread/INFO]: Loaded 7 recipes
+[20:20:13] [Render thread/INFO]: Loaded 1179 advancements
+[20:20:20] [Server thread/INFO]: Starting integrated minecraft server version 1.19.2
+[20:20:20] [Server thread/INFO]: Generating keypair
+[20:20:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:20:32] [Render thread/INFO]: Preparando zona de aparición: 0 %
+[20:20:32] [Render thread/INFO]: Preparando zona de aparición: 0 %
+[20:20:33] [Render thread/INFO]: Preparando zona de aparición: 0 %
+[20:20:33] [Render thread/INFO]: Preparando zona de aparición: 0 %
+[20:20:33] [Render thread/INFO]: Preparando zona de aparición: 2 %
+[20:20:34] [Render thread/INFO]: Preparando zona de aparición: 4 %
+[20:20:34] [Render thread/INFO]: Preparando zona de aparición: 6 %
+[20:20:35] [Render thread/INFO]: Preparando zona de aparición: 9 %
+[20:20:35] [Render thread/INFO]: Preparando zona de aparición: 12 %
+[20:20:36] [Render thread/INFO]: Preparando zona de aparición: 15 %
+[20:20:36] [Render thread/INFO]: Preparando zona de aparición: 18 %
+[20:20:37] [Render thread/INFO]: Preparando zona de aparición: 22 %
+[20:20:38] [Render thread/INFO]: Preparando zona de aparición: 23 %
+[20:20:38] [Render thread/INFO]: Preparando zona de aparición: 23 %
+[20:20:38] [Render thread/INFO]: Preparando zona de aparición: 25 %
+[20:20:39] [Render thread/INFO]: Preparando zona de aparición: 29 %
+[20:20:39] [Render thread/INFO]: Preparando zona de aparición: 32 %
+[20:20:40] [Render thread/INFO]: Preparando zona de aparición: 36 %
+[20:20:40] [Render thread/INFO]: Preparando zona de aparición: 40 %
+[20:20:41] [Render thread/INFO]: Preparando zona de aparición: 43 %
+[20:20:41] [Render thread/INFO]: Preparando zona de aparición: 47 %
+[20:20:42] [Render thread/INFO]: Preparando zona de aparición: 51 %
+[20:20:42] [Render thread/INFO]: Preparando zona de aparición: 55 %
+[20:20:43] [Render thread/INFO]: Preparando zona de aparición: 60 %
+[20:20:43] [Render thread/INFO]: Preparando zona de aparición: 64 %
+[20:20:44] [Render thread/INFO]: Preparando zona de aparición: 68 %
+[20:20:44] [Render thread/INFO]: Preparando zona de aparición: 73 %
+[20:20:45] [Render thread/INFO]: Preparando zona de aparición: 77 %
+[20:20:46] [Render thread/INFO]: Preparando zona de aparición: 81 %
+[20:20:46] [Render thread/INFO]: Preparando zona de aparición: 83 %
+[20:20:46] [Render thread/INFO]: Preparando zona de aparición: 86 %
+[20:20:47] [Render thread/INFO]: Preparando zona de aparición: 91 %
+[20:20:47] [Render thread/INFO]: Preparando zona de aparición: 97 %
+[20:20:48] [Render thread/INFO]: Time elapsed: 16185 ms
+[20:20:48] [Server thread/INFO]: Changing view distance to 18, from 10
+[20:20:48] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[20:20:48] [Server thread/INFO]: FoggiaAC[local:E:2c35a3e3] logged in with entity id 122 at (490.5, 69.0, 270.5)
+[20:20:48] [Server thread/INFO]: FoggiaAC se ha unido a la partida
+[20:20:50] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[20:20:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10024=
+[20:20:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[20:20:50] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[20:20:50] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60024=
+[20:20:50] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[20:20:50] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[20:20:50] [Render thread/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux3 = lib/textures/clouds.png
+[20:20:50] [Render thread/INFO]: [Shaders] Custom texture: texture.deferred.colortex3 = lib/textures/clouds.png
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: isEyeInCave
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: isDry
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: isRainy
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: isSnowy
+[20:20:50] [Render thread/INFO]: [Shaders] Custom variable: difX
+[20:20:50] [Render thread/INFO]: [Shaders] Custom variable: difY
+[20:20:50] [Render thread/INFO]: [Shaders] Custom variable: difZ
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: velocity
+[20:20:50] [Render thread/INFO]: [Shaders] Custom variable: difSum
+[20:20:50] [Render thread/INFO]: [Shaders] Custom variable: moving
+[20:20:50] [Render thread/INFO]: [Shaders] Custom variable: moved
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: starter
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: frameTimeSmooth
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM
+[20:20:50] [Render thread/INFO]: [Shaders] Custom uniform: rainFactor
+[20:20:50] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:50] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:50] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:50] [Render thread/INFO]: [Shaders] Program info log: shadow
+Vertex info
+-----------
+1(114) : warning C7050: "mat" might be used before being initialized
+[20:20:50] [Render thread/INFO]: [Shaders] Program loaded: world0/shadow
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:51] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_basic
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:51] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_line
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:51] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_textured
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:51] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skybasic
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:51] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:51] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skytextured
+[20:20:51] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_clouds
+[20:20:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:52] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:52] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_terrain
+[20:20:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:52] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:52] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_damagedblock
+[20:20:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:52] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:52] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_block
+[20:20:52] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:52] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:52] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:52] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_beaconbeam
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:53] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:53] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:53] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:53] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities_glowing
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:53] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:53] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_armor_glint
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:53] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:53] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_spidereyes
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:53] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:53] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_hand
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:53] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:53] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_weather
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:53] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:53] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:53] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[20:20:53] [Render thread/INFO]: [Shaders] Program loaded: world0/deferred1
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:54] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:54] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_water
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:54] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:54] [Render thread/INFO]: [Shaders] Program loaded: world0/composite
+[20:20:54] [Render thread/INFO]: [Shaders] Program disabled: world0/composite2
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:54] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:54] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[20:20:54] [Render thread/INFO]: [Shaders] Program loaded: world0/composite4
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:54] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:54] [Render thread/INFO]: [Shaders] Program loaded: world0/composite5
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:54] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:54] [Render thread/INFO]: [Shaders] colortex3 mipmap enabled
+[20:20:54] [Render thread/INFO]: [Shaders] Program loaded: world0/composite6
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:54] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:54] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:54] [Render thread/INFO]: [Shaders] Program loaded: world0/composite7
+[20:20:55] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:20:55] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:20:55] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:20:55] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[20:20:55] [Render thread/INFO]: [Shaders] colortex1 format: RGB8
+[20:20:55] [Render thread/INFO]: [Shaders] colortex2 format: RGB16
+[20:20:55] [Render thread/INFO]: [Shaders] colortex3 format: RGB8
+[20:20:55] [Render thread/INFO]: [Shaders] colortex4 format: R8
+[20:20:55] [Render thread/INFO]: [Shaders] colortex5 format: RGB8_SNORM
+[20:20:55] [Render thread/INFO]: [Shaders] colortex6 format: R8
+[20:20:55] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[20:20:55] [Render thread/INFO]: [Shaders] colortex4 clear disabled
+[20:20:55] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[20:20:55] [Render thread/INFO]: [Shaders] colortex6 clear disabled
+[20:20:55] [Render thread/INFO]: [Shaders] Noise texture enabled
+[20:20:55] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
+[20:20:55] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[20:20:55] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[20:20:55] [Render thread/INFO]: [Shaders] Dryness halflife: 300.0
+[20:20:55] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[20:20:55] [Render thread/INFO]: [Shaders] AO Level: 1.0
+[20:20:55] [Render thread/INFO]: [Shaders] Program loaded: world0/final
+[20:20:55] [Render thread/INFO]: [Shaders] usedColorBuffers: 8
+[20:20:55] [Render thread/INFO]: [Shaders] usedDepthBuffers: 2
+[20:20:55] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 2
+[20:20:55] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[20:20:55] [Render thread/INFO]: [Shaders] usedColorAttachs: 8
+[20:20:55] [Render thread/INFO]: [Shaders] usedDrawBuffers: 5
+[20:20:55] [Render thread/INFO]: [Shaders] bindImageTextures: false
+[20:20:55] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
+[20:20:55] [Render thread/INFO]: [Shaders] Framebuffer created: sfb
+[20:20:55] [Render thread/INFO]: [Shaders] Reset model renderers
+[20:20:55] [Render thread/INFO]: [Shaders] Reset world renderers
+[20:20:55] [Render thread/INFO]: Loaded 0 advancements
+[20:22:29] [Server thread/INFO]: Saving and pausing game...
+[20:22:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:22:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:22:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:22:37] [Server thread/INFO]: Saving and pausing game...
+[20:22:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:22:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:22:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:22:57] [Server thread/INFO]: Saving and pausing game...
+[20:22:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:22:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:22:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:23:07] [Render thread/INFO]: [Shaders] Uninit
+[20:23:07] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[20:23:07] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10024=
+[20:23:07] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[20:23:07] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[20:23:07] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60024=
+[20:23:07] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[20:23:07] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[20:23:07] [Render thread/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux3 = lib/textures/clouds.png
+[20:23:07] [Render thread/INFO]: [Shaders] Custom texture: texture.deferred.colortex3 = lib/textures/clouds.png
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: isEyeInCave
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: isDry
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: isRainy
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: isSnowy
+[20:23:07] [Render thread/INFO]: [Shaders] Custom variable: difX
+[20:23:07] [Render thread/INFO]: [Shaders] Custom variable: difY
+[20:23:07] [Render thread/INFO]: [Shaders] Custom variable: difZ
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: velocity
+[20:23:07] [Render thread/INFO]: [Shaders] Custom variable: difSum
+[20:23:07] [Render thread/INFO]: [Shaders] Custom variable: moving
+[20:23:07] [Render thread/INFO]: [Shaders] Custom variable: moved
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: starter
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: frameTimeSmooth
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM
+[20:23:07] [Render thread/INFO]: [Shaders] Custom uniform: rainFactor
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:07] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:07] [Render thread/INFO]: [Shaders] Program info log: shadow
+Vertex info
+-----------
+1(114) : warning C7050: "mat" might be used before being initialized
+[20:23:07] [Render thread/INFO]: [Shaders] Program loaded: world0/shadow
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:07] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:07] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_basic
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:07] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:07] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_line
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:07] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:07] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_textured
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:07] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:07] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skybasic
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:07] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:07] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skytextured
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_clouds
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_terrain
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_damagedblock
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_block
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_beaconbeam
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities_glowing
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_armor_glint
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_spidereyes
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_hand
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_weather
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:08] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:08] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:08] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[20:23:09] [Render thread/INFO]: [Shaders] Program loaded: world0/deferred1
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:09] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:09] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_water
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:09] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:09] [Render thread/INFO]: [Shaders] Program loaded: world0/composite
+[20:23:09] [Render thread/INFO]: [Shaders] Program disabled: world0/composite2
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:09] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:09] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[20:23:09] [Render thread/INFO]: [Shaders] Program loaded: world0/composite4
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:09] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:09] [Render thread/INFO]: [Shaders] Program loaded: world0/composite5
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:09] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:09] [Render thread/INFO]: [Shaders] colortex3 mipmap enabled
+[20:23:09] [Render thread/INFO]: [Shaders] Program loaded: world0/composite6
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:09] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:09] [Render thread/INFO]: [Shaders] Program loaded: world0/composite7
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:23:09] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:23:09] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[20:23:09] [Render thread/INFO]: [Shaders] colortex1 format: RGB8
+[20:23:09] [Render thread/INFO]: [Shaders] colortex2 format: RGB16
+[20:23:09] [Render thread/INFO]: [Shaders] colortex3 format: RGB8
+[20:23:09] [Render thread/INFO]: [Shaders] colortex4 format: R8
+[20:23:09] [Render thread/INFO]: [Shaders] colortex5 format: RGB8_SNORM
+[20:23:09] [Render thread/INFO]: [Shaders] colortex6 format: R8
+[20:23:09] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[20:23:09] [Render thread/INFO]: [Shaders] colortex4 clear disabled
+[20:23:09] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[20:23:09] [Render thread/INFO]: [Shaders] colortex6 clear disabled
+[20:23:09] [Render thread/INFO]: [Shaders] Noise texture enabled
+[20:23:09] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
+[20:23:09] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[20:23:09] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[20:23:09] [Render thread/INFO]: [Shaders] Dryness halflife: 300.0
+[20:23:09] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[20:23:09] [Render thread/INFO]: [Shaders] AO Level: 1.0
+[20:23:09] [Render thread/INFO]: [Shaders] Program loaded: world0/final
+[20:23:09] [Render thread/INFO]: [Shaders] usedColorBuffers: 8
+[20:23:09] [Render thread/INFO]: [Shaders] usedDepthBuffers: 2
+[20:23:09] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 2
+[20:23:09] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[20:23:09] [Render thread/INFO]: [Shaders] usedColorAttachs: 8
+[20:23:09] [Render thread/INFO]: [Shaders] usedDrawBuffers: 5
+[20:23:09] [Render thread/INFO]: [Shaders] bindImageTextures: false
+[20:23:09] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
+[20:23:09] [Render thread/INFO]: [Shaders] Framebuffer created: sfb
+[20:23:09] [Render thread/INFO]: [Shaders] Reset model renderers
+[20:23:09] [Render thread/INFO]: [Shaders] Reset world renderers
+[20:23:13] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[20:23:16] [Server thread/INFO]: Changing view distance to 12, from 18
+[20:23:35] [Render thread/INFO]: Loaded 4 advancements
+[20:24:03] [Server thread/INFO]: Saving and pausing game...
+[20:24:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:24:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:24:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:24:07] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[20:24:14] [Render thread/INFO]: [Shaders] Uninit
+[20:24:14] [Render thread/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[20:24:14] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.10024=
+[20:24:14] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_lava
+[20:24:15] [Render thread/WARN]: [OptiFine] Shaders: Block not found for name: minecraft:flowing_water
+[20:24:15] [Render thread/WARN]: [OptiFine] [Shaders] Invalid block ID mapping: block.60024=
+[20:24:15] [Render thread/INFO]: [OptiFine] [Shaders] Parsing item mappings: /shaders/item.properties
+[20:24:15] [Render thread/INFO]: [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[20:24:15] [Render thread/INFO]: [Shaders] Custom texture: texture.deferred.colortex3 = lib/textures/clouds.png
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: framemod8
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: isEyeInCave
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: isDry
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: isRainy
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: isSnowy
+[20:24:15] [Render thread/INFO]: [Shaders] Custom variable: difX
+[20:24:15] [Render thread/INFO]: [Shaders] Custom variable: difY
+[20:24:15] [Render thread/INFO]: [Shaders] Custom variable: difZ
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: velocity
+[20:24:15] [Render thread/INFO]: [Shaders] Custom variable: difSum
+[20:24:15] [Render thread/INFO]: [Shaders] Custom variable: moving
+[20:24:15] [Render thread/INFO]: [Shaders] Custom variable: moved
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: starter
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: frameTimeSmooth
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: eyeBrightnessM
+[20:24:15] [Render thread/INFO]: [Shaders] Custom uniform: rainFactor
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:15] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:15] [Render thread/INFO]: [Shaders] Program info log: shadow
+Vertex info
+-----------
+1(114) : warning C7050: "mat" might be used before being initialized
+[20:24:15] [Render thread/INFO]: [Shaders] Program loaded: world0/shadow
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:15] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:15] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_basic
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:15] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:15] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_line
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:15] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:15] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_textured
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:15] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:15] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skybasic
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:15] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:15] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_skytextured
+[20:24:15] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_clouds
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:15] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:15] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_terrain
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_damagedblock
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_block
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_beaconbeam
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_entities_glowing
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_armor_glint
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_spidereyes
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_hand
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_weather
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:16] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:16] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:16] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[20:24:16] [Render thread/INFO]: [Shaders] Program loaded: world0/deferred1
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:17] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:17] [Render thread/INFO]: [Shaders] Program loaded: world0/gbuffers_water
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:17] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:17] [Render thread/INFO]: [Shaders] Program loaded: world0/composite
+[20:24:17] [Render thread/INFO]: [Shaders] Program disabled: world0/composite2
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:17] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:17] [Render thread/INFO]: [Shaders] colortex0 mipmap enabled
+[20:24:17] [Render thread/INFO]: [Shaders] Program loaded: world0/composite4
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:17] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:17] [Render thread/INFO]: [Shaders] Program loaded: world0/composite5
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:17] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:17] [Render thread/INFO]: [Shaders] colortex3 mipmap enabled
+[20:24:17] [Render thread/INFO]: [Shaders] Program loaded: world0/composite6
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:17] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:17] [Render thread/INFO]: [Shaders] Program loaded: world0/composite7
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map distance: 192.0
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow map resolution: 2048
+[20:24:17] [Render thread/INFO]: [Shaders] Sun path rotation: 0.0
+[20:24:17] [Render thread/INFO]: [Shaders] colortex0 format: R11F_G11F_B10F
+[20:24:17] [Render thread/INFO]: [Shaders] colortex1 format: RGB8
+[20:24:17] [Render thread/INFO]: [Shaders] colortex2 format: RGB16
+[20:24:17] [Render thread/INFO]: [Shaders] colortex3 format: RGB8
+[20:24:17] [Render thread/INFO]: [Shaders] colortex4 format: R8
+[20:24:17] [Render thread/INFO]: [Shaders] colortex5 format: RGB8_SNORM
+[20:24:17] [Render thread/INFO]: [Shaders] colortex6 format: R8
+[20:24:17] [Render thread/INFO]: [Shaders] colortex2 clear disabled
+[20:24:17] [Render thread/INFO]: [Shaders] colortex4 clear disabled
+[20:24:17] [Render thread/INFO]: [Shaders] colortex5 clear disabled
+[20:24:17] [Render thread/INFO]: [Shaders] colortex6 clear disabled
+[20:24:17] [Render thread/INFO]: [Shaders] Noise texture enabled
+[20:24:17] [Render thread/INFO]: [Shaders] Noise texture resolution: 128
+[20:24:17] [Render thread/INFO]: [Shaders] Hardware shadow filtering enabled.
+[20:24:17] [Render thread/INFO]: [Shaders] Shadow distance render mul: 1.0
+[20:24:17] [Render thread/INFO]: [Shaders] Dryness halflife: 300.0
+[20:24:17] [Render thread/INFO]: [Shaders] Wetness halflife: 300.0
+[20:24:17] [Render thread/INFO]: [Shaders] AO Level: 1.0
+[20:24:17] [Render thread/INFO]: [Shaders] Program loaded: world0/final
+[20:24:17] [Render thread/INFO]: [Shaders] usedColorBuffers: 8
+[20:24:17] [Render thread/INFO]: [Shaders] usedDepthBuffers: 2
+[20:24:17] [Render thread/INFO]: [Shaders] usedShadowColorBuffers: 2
+[20:24:17] [Render thread/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[20:24:17] [Render thread/INFO]: [Shaders] usedColorAttachs: 8
+[20:24:17] [Render thread/INFO]: [Shaders] usedDrawBuffers: 5
+[20:24:17] [Render thread/INFO]: [Shaders] bindImageTextures: false
+[20:24:17] [Render thread/INFO]: [Shaders] Framebuffer created: dfb
+[20:24:17] [Render thread/INFO]: [Shaders] Framebuffer created: sfb
+[20:24:17] [Render thread/INFO]: [Shaders] Reset model renderers
+[20:24:17] [Render thread/INFO]: [Shaders] Reset world renderers
+[20:24:20] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[20:24:31] [Render thread/INFO]: [System] [CHAT] Captura de pantalla guardada como 2025-11-01_20.24.31.png
+[20:24:43] [Server thread/INFO]: Saving and pausing game...
+[20:24:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:24:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:24:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:24:57] [Render thread/ERROR]: ########## GL ERROR ##########
+[20:24:57] [Render thread/ERROR]: @ Render
+[20:24:57] [Render thread/ERROR]: 65540: Invalid scancode -1
+[20:25:15] [Server thread/INFO]: Saving and pausing game...
+[20:25:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:25:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:25:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:25:24] [Server thread/INFO]: Saving and pausing game...
+[20:25:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:25:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:25:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:26:34] [Render thread/INFO]: Loaded 16 advancements
+[20:26:37] [Render thread/INFO]: Loaded 19 advancements
+[20:26:37] [Render thread/INFO]: Loaded 28 advancements
+[20:27:02] [Server thread/INFO]: Saving and pausing game...
+[20:27:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:27:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:27:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:27:06] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[20:27:33] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[20:27:40] [Server thread/INFO]: Saving and pausing game...
+[20:27:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:27:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:27:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:28:34] [Server thread/INFO]: Saving and pausing game...
+[20:28:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:28:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:28:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:28:51] [Server thread/INFO]: Changing view distance to 8, from 12
+[20:29:16] [Render thread/INFO]: [System] [CHAT] Se ha establecido el punto de reaparición
+[20:29:21] [Render thread/INFO]: Loaded 31 advancements
+[20:29:46] [Render thread/INFO]: Loaded 34 advancements
+[20:30:01] [Render thread/INFO]: Loaded 41 advancements
+[20:30:54] [Server thread/INFO]: FoggiaAC ha conseguido el progreso [Mente fría]
+[20:30:54] [Render thread/INFO]: [System] [CHAT] FoggiaAC ha conseguido el progreso [Mente fría]
+[20:30:54] [Render thread/INFO]: Loaded 49 advancements
+[20:30:55] [Server thread/INFO]: FoggiaAC ha conseguido el progreso [Vístete]
+[20:30:55] [Render thread/INFO]: [System] [CHAT] FoggiaAC ha conseguido el progreso [Vístete]
+[20:30:55] [Render thread/INFO]: Loaded 54 advancements
+[20:30:56] [Server thread/INFO]: FoggiaAC ha conseguido el progreso [La Edad de Hierro]
+[20:30:56] [Render thread/INFO]: [System] [CHAT] FoggiaAC ha conseguido el progreso [La Edad de Hierro]
+[20:30:56] [Render thread/INFO]: Loaded 77 advancements
+[20:30:56] [Render thread/INFO]: Loaded 90 advancements
+[20:32:06] [Render thread/INFO]: Loaded 91 advancements
+[20:32:21] [Render thread/INFO]: Loaded 108 advancements
+[20:32:25] [Render thread/INFO]: Loaded 108 advancements
+[20:32:54] [Server thread/INFO]: FoggiaAC ha conseguido el progreso [La Edad de Piedra]
+[20:32:54] [Render thread/INFO]: [System] [CHAT] FoggiaAC ha conseguido el progreso [La Edad de Piedra]
+[20:32:54] [Render thread/INFO]: Loaded 122 advancements
+[20:33:46] [Render thread/INFO]: [System] [CHAT] Se ha establecido el punto de reaparición
+[20:33:54] [Server thread/INFO]: FoggiaAC ha conseguido el progreso [Mejorando herramientas]
+[20:33:54] [Render thread/INFO]: [System] [CHAT] FoggiaAC ha conseguido el progreso [Mejorando herramientas]
+[20:33:54] [Render thread/INFO]: Loaded 123 advancements
+[20:33:56] [Render thread/INFO]: Loaded 124 advancements
+[20:34:06] [Server thread/INFO]: FoggiaAC ha conseguido el progreso [Dulces sueños]
+[20:34:06] [Render thread/INFO]: [System] [CHAT] FoggiaAC ha conseguido el progreso [Dulces sueños]
+[20:34:06] [Render thread/INFO]: Loaded 129 advancements
+[20:34:08] [Server thread/INFO]: <FoggiaAC> zzz
+[20:34:08] [Render thread/INFO]: [CHAT] <FoggiaAC> zzz
+[20:34:21] [Render thread/INFO]: Loaded 132 advancements
+[20:36:11] [Render thread/INFO]: Loaded 150 advancements
+[20:36:28] [Render thread/INFO]: Loaded 153 advancements
+[20:36:28] [Render thread/INFO]: Loaded 172 advancements
+[20:37:16] [Server thread/INFO]: FoggiaAC ha conseguido el progreso [¿No es hierrónico?]
+[20:37:16] [Render thread/INFO]: [System] [CHAT] FoggiaAC ha conseguido el progreso [¿No es hierrónico?]
+[20:37:16] [Render thread/INFO]: Loaded 174 advancements
+[20:39:29] [Server thread/INFO]: Saving and pausing game...
+[20:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:40:23] [Render thread/INFO]: Loaded 177 advancements
+[20:40:30] [Server thread/INFO]: FoggiaAC ha conseguido el progreso [Monster Hunter]
+[20:40:30] [Render thread/INFO]: [System] [CHAT] FoggiaAC ha conseguido el progreso [Monster Hunter]
+[20:40:30] [Render thread/INFO]: Loaded 180 advancements
+[20:40:34] [Render thread/INFO]: Loaded 181 advancements
+[20:41:41] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[20:42:50] [Render thread/INFO]: Loaded 191 advancements
+[20:44:12] [Render thread/INFO]: Loaded 191 advancements
+[20:44:42] [Server thread/INFO]: Saving and pausing game...
+[20:44:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:44:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:44:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:44:54] [Render thread/INFO]: Loaded 191 advancements
+[20:45:22] [Render thread/INFO]: Loaded 202 advancements
+[20:45:23] [Server thread/INFO]: Saving and pausing game...
+[20:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:45:33] [Server thread/INFO]: Saving and pausing game...
+[20:45:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:45:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:45:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:46:02] [Render thread/INFO]: Loaded 204 advancements
+[20:46:41] [Render thread/INFO]: Loaded 207 advancements
+[20:48:05] [Render thread/INFO]: [System] [CHAT] Se ha establecido el punto de reaparición
+[20:48:20] [Render thread/INFO]: [System] [CHAT] Se ha establecido el punto de reaparición
+[20:48:21] [Server thread/INFO]: <FoggiaAC> zzz
+[20:48:21] [Render thread/INFO]: [CHAT] <FoggiaAC> zzz
+[20:49:14] [Server thread/INFO]: Saving and pausing game...
+[20:49:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:49:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:49:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[20:49:52] [Server thread/INFO]: Saving and pausing game...
+[20:49:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[20:49:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[20:49:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[21:19:28] [Server thread/INFO]: FoggiaAC lost connection: Desconectado
+[21:19:28] [Server thread/INFO]: FoggiaAC ha abandonado la partida
+[21:19:28] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:19:28] [Server thread/INFO]: Stopping server
+[21:19:28] [Server thread/INFO]: Saving players
+[21:19:28] [Server thread/INFO]: Saving worlds
+[21:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:overworld
+[21:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_end
+[21:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enric Vilardell Navas]'/minecraft:the_nether
+[21:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (Enric Vilardell Navas): All chunks are saved
+[21:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:19:32] [Render thread/INFO]: Stopping!

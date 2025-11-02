@@ -21,7 +21,7 @@ toggleSprint:true
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
-fov:0.65
+fov:0.725
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -32,11 +32,11 @@ entityDistanceScaling:1.0
 guiScale:0
 particles:0
 maxFps:260
-graphicsMode:1
+graphicsMode:0
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"true"
+renderClouds:"fast"
 resourcePacks:["vanilla"]
 incompatibleResourcePacks:[]
 lastServer:

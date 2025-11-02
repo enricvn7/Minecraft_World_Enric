@@ -1,4 +1,4 @@
-#Sat Nov 01 20:27:33 CET 2025
+#Sun Nov 02 12:34:16 CET 2025
 handDepthMul=0.125
 TexMinFilB=0
 oldLighting=default
@@ -6,7 +6,7 @@ TexMagFilN=0
 tweakBlockDamage=false
 cloudShadow=false
 TexMagFilS=0
-shaderPack=ComplementaryReimagined_r1.3.1
+shaderPack=Sildur's Vibrant Shaders v1.41 Extreme-VL
 TexMinFilN=0
 specularMapEnabled=true
 normalMapEnabled=true
